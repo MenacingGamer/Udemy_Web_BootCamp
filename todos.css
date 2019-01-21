@@ -1,0 +1,9 @@
+li{
+	background: darkgreen;
+}
+#work{
+	background: silver;
+}
+.done{
+	text-decoration: line-through; 
+}
