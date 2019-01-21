@@ -1,0 +1,24 @@
+h1{
+
+	color: rgba(150, 200, 0, 1);
+}
+li{
+	color: green;
+}
+h4 {
+	color: blue;
+	font: "bold";
+	background: rgba(50, 0, 1, .5);
+	/*border-color: green;*/
+	/*border-width: 5px;
+	border-style: solid;*/
+	border: 1px solid green;
+}
+body{
+	background: pink;
+	background: url(https://imgc.allpostersimages.com/img/print/posters/ann-cecil-sunset-at-anaehoomalu-beach-waikoloa-hawaii-usa_a-G-2494709-4990619.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+	
